@@ -1,0 +1,3 @@
+# runtimeDemo
+关于iOS runtime运行时的简单整理和应用
+iOS中runtime运行时有很多种应用，本demo中只示例了几种常用的简单用法，更多深层次底层一点的东西还得继续研究学习。
